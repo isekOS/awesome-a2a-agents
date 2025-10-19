@@ -31,7 +31,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 **New to A2A? Start here:**
 
 1. **📖 Learn**: Read the [official docs](https://google.github.io/A2A/) - takes 10 minutes
-2. **🎥 Watch**: Check out [demo videos](https://youtube.com/@googleai) to see it in action  
+2. **🎥 Watch**: Check out [demo videos](https://www.youtube.com/watch?v=Fbr_Solax1w) to see it in action  
 3. **🛠️ Try**: Clone the [sample repo](https://github.com/google/A2A/tree/main/samples) and run examples
 4. **🚀 Build**: Create your first agent using the provided libraries
 
