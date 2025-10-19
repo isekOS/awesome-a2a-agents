@@ -43,7 +43,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 
 * 💬 **[Discord](https://discord.gg/CDBAAgjY)** - ISEK Community (active A2A discussions)
 * 🐦 **[Twitter/X](https://x.com/ISEK_Official)** - ISEK Official updates
-* 📺 **[YouTube](https://youtube.com/@ISEK)** - Tutorials and demos
+* 📺 **To be confirmed** - Tutorials and demos
 
 **Need help?** Join our Discord community for active A2A discussions and support.
 
