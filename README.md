@@ -332,6 +332,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI agents (YC S25)
 - [ojasskapre/yahoo-finance-llm-agent](https://github.com/ojasskapre/yahoo-finance-llm-agent) - The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide real-time financial data. It features stock information, financial statements, and an interactive chat interface, all while maintaining conversation context and integrating with Langsmith for debugging
 - [om-ai-lab/OmAgent](https://github.com/om-ai-lab/omagent) - Build multimodal language agents for fast prototype and production
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with native A2A, MCP, WebSocket, gRPC, and HTTP protocol support.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [pasonk/ai-chatkit](https://github.com/pasonk/ai-chatkit) - A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge base
 - [personoids/personoids-lite](https://github.com/personoids/chat-ai-plugin) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. 
