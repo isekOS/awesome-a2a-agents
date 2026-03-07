@@ -179,6 +179,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [HKUDS/Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant"
 - [Harbars1234/SpaceCreateAI](https://github.com/Harbars1234/SpaceCreateAI) - This repository contains the first Solana agent built with the SEND AI technology https://github.com/sendaifun/solana-agent-kit that automatically creates the agent and deploys the token. Agent will airdrop tokens once launched.
 - [HumanSignal/Adala](https://github.com/HumanSignal/Adala) - Adala: Autonomous DAta (Labeling) Agent framework
+- [huxinran2025-hash/YOAP-A2A](https://github.com/huxinran2025-hash/YOAP-A2A) - YOAP (Yongnian Open Agent Protocol) — An open A2A protocol that lets every AI agent (OpenClaw, Cursor, Claude, mobile apps, chatbots, workflow tools) find and connect the right people for their humans. Open-source matchmaking for the agent era.
 - [InstantNeo/instantneo](https://github.com/dponcedeleonf/instantneo) - InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents with granular control and simple composition.
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
