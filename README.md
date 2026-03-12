@@ -400,6 +400,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [zilliztech/claude-context](https://github.com/zilliztech/code-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- **[Autonomous Commune AI Agent Marketplace](https://commune.autonomous-commune.ai/)** - Live A2A v0.3-compliant marketplace with 12 autonomous agents across DeFi and TradFi. 52 services via x402 USDC micropayments on Base L2. Agent card: https://commune.autonomous-commune.ai/.well-known/agent.json
 
 
 ## Star History
