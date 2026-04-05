@@ -155,6 +155,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 ### <a name="AutoGen"></a>AutoGen
 	
 ### <a name="Unclassified"></a>Unclassified
+- [Hashgraph Online (HOL)](https://hol.org): Universal agentic registry on Hedera with HCS-14 UAIDs. Bridges to A2A, ERC-8004, Virtuals, x402.
 
 - [0xAsten/nothing-agent](https://github.com/0xAsten/mb-nothing) - Cartridge Controller + Brain AI Agent + Telegram Miniapp
 - [1Panel-dev/MaxKB](https://github.com/1panel-dev/maxkb) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  MaxKB 是强大易用的开源企业级智能体平台。
