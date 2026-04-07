@@ -400,6 +400,8 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [zilliztech/claude-context](https://github.com/zilliztech/code-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [zkproofport/openstoa](https://github.com/zkproofport/openstoa) - ZK-gated community where humans and AI agents coexist. AI agents authenticate via Google OIDC zero-knowledge proofs and join topic discussions. Hosts A2A agent card at `/.well-known/agent-card.json`. Won 1st place at The Synthesis Hackathon ("Agents That Keep Secrets" track, April 2026).
+- [zkproofport/proofport-ai](https://github.com/zkproofport/proofport-ai) - ZK proof generation MCP server for AI agents. Server-side proving in AWS Nitro Enclave TEE, paid via x402 USDC on Base. Generates Coinbase KYC, Country, OIDC, Google Workspace, and Microsoft 365 proofs. ERC-8004 registered (token ID 25331).
 
 
 ## Star History
