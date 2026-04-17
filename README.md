@@ -213,6 +213,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [SamTaubman/AI_Agent_Computer_Vision](https://github.com/SamTaubman/AI_Agent_Computer_Vision) - AI Agent designed to solve Raven's Progressive Matrices IQ Test
 - [Sebasbo/Autonoma](https://github.com/Sebasbo/Autonoma) - Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflows through multi-agent collaboration.
 - [Superstar721/Auto_web-GPT](https://github.com/Superstar721/Auto_web-GPT) -  Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [qualixar/slm-mesh](https://github.com/qualixar/slm-mesh) - SLM Mesh: P2P coordination for AI agent sessions via MCP. Broadcast messaging, shared state, distributed file locks. Enables agents running in different sessions/IDEs to collaborate in real time. Works with Claude Code, Cursor, Windsurf, VS Code.
 - [TEN-framework/ten-framework](https://github.com/ten-framework/ten-agent) -  Open-source framework for conversational voice AI agents
 - [Talha-Ali-5365/InstantRun](https://github.com/Talha-Ali-5365/InstantRun) - AI agent that can deploy any github repo autonomously
 - [TencentQQGYLab/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
