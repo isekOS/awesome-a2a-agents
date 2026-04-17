@@ -222,6 +222,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [UniIDE/DebugAI](https://github.com/Open-IDE/DebugAI) - An A.I. Agent that assists in Testing & Debugging!
 - [Upsonic/Upsonic](https://github.com/upsonic/gpt-computer-assistant) - The most reliable AI agent framework that supports MCP.
 - [UshuaiaPY/framework](https://github.com/isalineai/framework) - Self-sustaining Python AI agent creating, deploying, and optimizing autonomous projects.
+- [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) - Agent-first search engine. Indexes 8,000+ agent-readable services (MCP servers, llms.txt sites, OpenAPI endpoints) ranked by agentic readiness. Useful for agent discovery in multi-agent systems. Remote MCP at `nothumansearch.ai/mcp`.
 - [W3bbieLabs/init-eliza](https://github.com/W3bbieLabs/init-eliza) - A powerful CLI tool for building, managing, and deploying AI agents with multiple provider integrations.
 - [Wei1024/AI-Agent-Playground](https://github.com/Wei1024/AI-Agent-Playground) - test repo to develop an AI agent framework for office workers
 - [YassWorks/Ally](https://github.com/YassWorks/Ally) - A local-first CLI agentic system that works with most inference providers.
