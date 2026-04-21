@@ -154,6 +154,10 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 
 ### <a name="AutoGen"></a>AutoGen
 	
+### <a name="Infrastructure & Runtimes"></a>Infrastructure & Runtimes
+
+- [systempromptio/systemprompt-template](https://github.com/systempromptio/systemprompt-template) - Production-grade Rust runtime for hosting and governing MCP servers with A2A orchestration. Built-in 6-tier RBAC, secret detection (35+ patterns), rate limiting, audit logging, OAuth 2.0 + WebAuthn. Single binary (~50 MB), PostgreSQL only — no Kubernetes, no Redis. [BSL-1.1]
+
 ### <a name="Unclassified"></a>Unclassified
 
 - [0xAsten/nothing-agent](https://github.com/0xAsten/mb-nothing) - Cartridge Controller + Brain AI Agent + Telegram Miniapp
