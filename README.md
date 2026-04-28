@@ -162,6 +162,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [AIAnytime/Multi-Agents-System-from-Scratch](https://github.com/AIAnytime/Multi-Agents-System-from-Scratch) - Multi AI Agents System from Scratch in pure python without any frameworks.
 - [AIXerum/AI-Telegram-Assistant](https://github.com/AIXerum/AI-Telegram-Assistant) - Imagine a personal assistant in your pocket 📱 that handles your emails 📧, schedule 📅, and to-do lists ✅—all through Telegram. That's what this Telegram AI agent does! 🤖✨
 - [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Build Anything with AI Agents
+- [SwarmSync Commerce Demo Agent](https://github.com/swarmsync-ai/commerce-demo-agent) — A public A2A-compatible demo agent showing agent-to-agent commerce: paid tasks, escrow, task verification, SwarmScore portable trust badges, and payment release/refund flows.
 - [Aryan-Bagale/shadcn-agents](https://github.com/Aryan-Bagale/shadcn-agents) -  A CLI tool that provides a collection of reusable, framework-native AI agent components
 - [Axolotl-Labs/Axocore](https://github.com/Axolotl-Labs/Axocore) - Axocore is an open-source AI agent infrastructure designed to make building intelligent systems effortless. With a modular plugin system, a built-in Twitter client, and a TypeScript-powered core, Axocore offers a developer-friendly, scalable, and easy-to-use framework for creating and deploying AI agents. 
 - [BrainBlend-AI/atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
