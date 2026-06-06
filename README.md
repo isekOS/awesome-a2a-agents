@@ -219,6 +219,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [The-Swarm-Corporation/Multi-Agent-RAG-Template](https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template) - This template demonstrates how to create a collaborative team of AI agents that work together to process, analyze, and generate insights from documents.
 - [Theneo-Inc/Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations to elevate compliance, security, and performance.
 - [TransformerOptimus/SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** — Solana-native trust scoring and x402 receipt layer for A2A agent interactions. Preflight trust assessment + signed V5 receipts via MCP at https://intel.twzrd.xyz
 - [UniIDE/DebugAI](https://github.com/Open-IDE/DebugAI) - An A.I. Agent that assists in Testing & Debugging!
 - [Upsonic/Upsonic](https://github.com/upsonic/gpt-computer-assistant) - The most reliable AI agent framework that supports MCP.
 - [UshuaiaPY/framework](https://github.com/isalineai/framework) - Self-sustaining Python AI agent creating, deploying, and optimizing autonomous projects.
