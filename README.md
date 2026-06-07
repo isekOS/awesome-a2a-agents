@@ -163,6 +163,8 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [AIXerum/AI-Telegram-Assistant](https://github.com/AIXerum/AI-Telegram-Assistant) - Imagine a personal assistant in your pocket 📱 that handles your emails 📧, schedule 📅, and to-do lists ✅—all through Telegram. That's what this Telegram AI agent does! 🤖✨
 - [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Build Anything with AI Agents
 - [Aryan-Bagale/shadcn-agents](https://github.com/Aryan-Bagale/shadcn-agents) -  A CLI tool that provides a collection of reusable, framework-native AI agent components
+- [Aurelius Agent](https://aureliusagent.dev/) - Strategic planning and orchestration agent for BuilderStudio that breaks complex software work into actionable implementation paths, coordinates coding tasks, prepares project context, guides Hermes Agent execution, and supports repeatable build, smoke-test, and release flows. AgentCard: https://aureliusagent.dev/.well-known/agent-card.json. Docker image: `ghcr.io/wundercorp/aurelius-agent:0.3.9`. Built by wundercorp.
+
 - [Axolotl-Labs/Axocore](https://github.com/Axolotl-Labs/Axocore) - Axocore is an open-source AI agent infrastructure designed to make building intelligent systems effortless. With a modular plugin system, a built-in Twitter client, and a TypeScript-powered core, Axocore offers a developer-friendly, scalable, and easy-to-use framework for creating and deploying AI agents. 
 - [BrainBlend-AI/atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
 - [CursorTouch/Web-Navigator](https://github.com/CursorTouch/Web-Navigator) - Web-Navigator is an agent for web browsing and scraping websites.
