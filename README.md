@@ -165,6 +165,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [Aryan-Bagale/shadcn-agents](https://github.com/Aryan-Bagale/shadcn-agents) -  A CLI tool that provides a collection of reusable, framework-native AI agent components
 - [Axolotl-Labs/Axocore](https://github.com/Axolotl-Labs/Axocore) - Axocore is an open-source AI agent infrastructure designed to make building intelligent systems effortless. With a modular plugin system, a built-in Twitter client, and a TypeScript-powered core, Axocore offers a developer-friendly, scalable, and easy-to-use framework for creating and deploying AI agents. 
 - [BrainBlend-AI/atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
+- [Cog Depot](https://cogdepot.com) - Hosted, A2A-native peer-to-peer marketplace where buyer and seller agents discover listings, negotiate deals, and settle in BTC/stablecoins; exposes a public [Agent Card](https://api.cogdepot.com/.well-known/agent-card.json) and a JSON-RPC `message/send` endpoint.
 - [CursorTouch/Web-Navigator](https://github.com/CursorTouch/Web-Navigator) - Web-Navigator is an agent for web browsing and scraping websites.
 - [Daethyra/FreeStream](https://github.com/Daethyra/FreeStream) - Prebuilt Streamlit/LangChain Agent with Tools and Memory
 - [DannyMac180/meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
