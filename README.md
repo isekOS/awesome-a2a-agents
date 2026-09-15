@@ -146,6 +146,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [khaoss85/AI-Team-Orchestrator](https://github.com/khaoss85/AI-Team-Orchestrator) -   Next-generation multi-agent AI platform with autonomous quality gates, real-time thinking processes, and cost-optimized orchestration. Built with OpenAI Agents SDK, FastAPI, and Next.js 15.
 - [lutzroeder/agents](https://github.com/lutzroeder/agents) - Minimal coding, computer-use and deep research agents using the OpenAI Agents SDK
 - [madebyagents/portfolio-research-team](https://github.com/madebyagents/portfolio-research-team) - A multi-agent workflow that answers investment research questions and generates a report using the OpenAI Agents SDK.
+- [HostDeFi](https://hostdefi.com/) - DEX front-end with a live A2A agent card (/.well-known/agent.json): agents can scan tokens (A+–F safety grades), price swaps and pay per call in USDC via x402.
 
 
 ### <a name="n8n"></a>n8n
