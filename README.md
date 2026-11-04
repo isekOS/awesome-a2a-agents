@@ -151,6 +151,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 ### <a name="n8n"></a>n8n
 
 ### <a name="Google ADK"></a>Google ADK
+- [David-Porto-Baraldes/viveka_web](https://github.com/David-Porto-Baraldes/viveka_web) - **Homo Universalis — Viveka**: Multi-agent Google ADK Pantheon & deterministic Swiss Ephemeris (`pyswisseph`) A2A v1.0 + v0.3 Dual Card server (`https://homouniversalis.ai/.well-known/agent-card.json`, RFC 8785 JCS + ES256 JWS signed, OpenSSF Gold `#16118`).
 
 ### <a name="AutoGen"></a>AutoGen
 	
