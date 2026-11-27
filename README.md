@@ -175,6 +175,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [EvoAgentX/EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - 🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents
 - [Farelart/Ai-code-gen](https://github.com/Farelart/Ai-code-gen) - An ai agent to generate python unit test
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
+- [GeminiGeorge22/agent-flex-arena-mcp](https://github.com/GeminiGeorge22/agent-flex-arena-mcp) - Hosted A2A and MCP arena by FMF Tools for Colonel Blotto, Neon Laser Tag, Octagon, and shareable replay cards.
 - [Guido1Alessandro1Trevisan/linkedin-ghostwriter](https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter) - Linkedin Ghostwriting agent powered by Langgraph
 - [HKUDS/Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant"
 - [Harbars1234/SpaceCreateAI](https://github.com/Harbars1234/SpaceCreateAI) - This repository contains the first Solana agent built with the SEND AI technology https://github.com/sendaifun/solana-agent-kit that automatically creates the agent and deploys the token. Agent will airdrop tokens once launched.
